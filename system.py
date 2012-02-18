@@ -189,10 +189,10 @@ class System(object):
         return photo_val, url_val
 
 if __name__ == '__main__':
-    CONSUMER_KEY="gtCXsTWe36CVbW5XzatYSg"
-    CONSUMER_SECRET="igYhRFLGC3aeGnNst8VbWOVbbrK854NRtlJvravO8U"
-    ACCESS_TOKEN="141077154-YAcEuL6qZIifys2jN4vLqrtTsWrgQHQiM8qbXrch"
-    ACCESS_TOKEN_SECRET="Ry09sYcYuh9cWEldXsmQn9ooJVlkIspxbQUHyX0Ls"
+    CONSUMER_KEY="**********"
+    CONSUMER_SECRET="**********"
+    ACCESS_TOKEN="**********"
+    ACCESS_TOKEN_SECRET="**********"
     api = twitter.Api(consumer_key=CONSUMER_KEY,
                       consumer_secret=CONSUMER_SECRET,
                       access_token_key=ACCESS_TOKEN,
