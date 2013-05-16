@@ -1,9 +1,7 @@
 # -*- coding:utf-8 -*-
 
-from datetime import datetime, date
 import time
 import socket
-import re
 import collections
 import math
 import urllib2
